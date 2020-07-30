@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">retrofit</string>
+    <string name="realizar_consulta_get">Realizar consulta GET</string>
+</resources>
